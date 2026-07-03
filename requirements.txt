@@ -1,0 +1,10 @@
+pandas
+pyarrow
+numpy
+jupyter
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+azure-storage-blob
+azure-core
