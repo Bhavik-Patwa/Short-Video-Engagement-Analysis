@@ -1,4 +1,4 @@
-# Impression-to-Engagement Intelligence for Short-Video Content
+# Short-Video Engagement Analysis
 
 An end-to-end analytics project built on the **KuaiRand-Pure** public dataset to understand how short-video impressions convert into click, watch and higher-value engagement outcomes and to identify which impression-content combinations are most likely to drive business value.
 
